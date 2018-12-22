@@ -1,0 +1,5 @@
+Django==2.0
+djangorestframework
+psycopg2
+psycopg2-binary
+django-filter
